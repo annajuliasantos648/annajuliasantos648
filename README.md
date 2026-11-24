@@ -1,51 +1,40 @@
-Olá, eu sou a Anna Julia 👋
-🎨 Design + 💻 Desenvolvimento de Software
-"Transformando criatividade em experiências digitais."
+✨ Anna Julia
+🎨 Design • 💻 Desenvolvimento • 🚀 Tecnologia
+Apaixonada por transformar criatividade em experiências digitais.
 
-✨ Sobre mim
-Sou estudante de Análise e Desenvolvimento de Sistemas (ADS), apaixonada por criatividade, inovação e tecnologia.
 
-Acredito que o melhor desenvolvimento acontece quando a estética do design encontra a lógica da programação. Por isso, estou constantemente aprendendo novas ferramentas e explorando formas de criar soluções que sejam funcionais, acessíveis e visualmente atraentes.
+🌷 Sobre mim
+🎓 Estudante de Design e Análise e Desenvolvimento de Sistemas
 
-🌱 Atualmente focada em:
+💡 Interessada em:
+
+UI/UX Design
+Front-end
+Desenvolvimento Web
+Identidade Visual
+Experiência do Usuário
+🌱 Atualmente estudando:
 
 Lógica de Programação
 Linguagem C
-Git e GitHub
-UI/UX Design
-Desenvolvimento Web
-Boas práticas de desenvolvimento
-🚀 Objetivos
-Desenvolver projetos que integrem Design e Tecnologia
-Construir um portfólio sólido na área de desenvolvimento
-Aprimorar conhecimentos em Front-end e UX/UI
-Participar de projetos colaborativos e Open Source
-Crescer profissionalmente na área de tecnologia
-🛠️ Tecnologias e Ferramentas
+Git & GitHub
+HTML
+CSS
+JavaScript
+🛠️ Tecnologias
 
-📚 Atualmente aprendendo
-✅ Algoritmos
-✅ Pensamento Computacional
-✅ Linguagem C
-✅ Controle de Versão com Git
-✅ GitHub
-🔄 HTML
-🔄 CSS
-🔄 JavaScript
-📊 Estatísticas GitHub
 
-🔥 Sequência de contribuições
+📊 GitHub Stats
 
-🌟 Repositórios em destaque
-📌 Desenvolvimento de Algoritmos e Pensamento Computacional
+🎯 Objetivos para 2027
+Criar meu portfólio profissional
+Desenvolver projetos Front-end
+Aprender React
+Participar de projetos Open Source
+Conseguir minha primeira oportunidade na área de tecnologia
+📌 Projeto em destaque
+Desenvolvimento de Algoritmos e Pensamento Computacional
+Projeto focado no aprendizado da lógica de programação utilizando linguagem C e resolução de problemas computacionais.
 
-Projetos desenvolvidos durante os estudos de lógica de programação e resolução de problemas utilizando linguagem C.
-
-📌 Estudos e Projetos Acadêmicos
-
-Repositórios voltados para exercícios, práticas e desafios realizados durante a graduação.
-
-🌎 Onde me encontrar
-
-💡 "Grandes ideias surgem quando criatividade e tecnologia trabalham juntas."
-⭐ Obrigada pela visita ao meu perfil!
+💕 "Design é inteligência tornada visível."
+⭐ Obrigada pela visita!
